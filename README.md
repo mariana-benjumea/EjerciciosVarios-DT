@@ -1,2 +1,2 @@
-# ProyectoFinal---DT
-PROYECTO FINAL - Digital Transformation
+# EjerciciosVarios-DT
+EJERCICIOS VARIOS - Digital Transformation
